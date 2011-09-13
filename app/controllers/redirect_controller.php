@@ -42,7 +42,7 @@ class RedirectController extends AppController {
     }
 
     function index(){
-        echo "Redirect HTTPS Contents.";
+        echo "Redirect HTTP Contents";
     }
 
     function write(){
